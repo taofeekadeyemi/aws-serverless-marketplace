@@ -126,28 +126,28 @@ aws-serverless-marketplace/
 ## 📸 Screenshots
 
 ### Home Service Marketplace Portal
-![Home Service Marketplace Portal](docs/screenshots/home-service-marketplace-portal.png)
+![Home Service Marketplace Portal](docs/Screenshots/home-service-marketplace-portal.png)
 
 ### Customer dashboard
-![Customer Portal](docs/screenshots/customer-dashboard.png)
+![Customer Portal](docs/Screenshots/customer-dashboard.png)
 
 ### Customer booking notification email
-![Customer Portal](docs/screenshots/customer-booking-notification-email.png)
+![Customer Portal](docs/Screenshots/customer-booking-notification-email.png)
 
 ### Provider booking notification email
-![Customer Portal](docs/screenshots/provider-booking-notification-email.png)
+![Customer Portal](docs/Screenshots/provider-booking-notification-email.png)
 
 ### Provider Dashboard
-![Provider Dashboard](docs/screenshots/provider-dashboard.png)
+![Provider Dashboard](docs/Screenshots/provider-dashbaoard.png)
 
 ### Customer review notification email
-![Customer Portal](docs/screenshots/customer-review-notification-email.png)
+![Customer Portal](docs/Screenshots/customer-review-notification-email.png)
 
 ### Customer receipt notification email
-![Customer Portal](docs/screenshots/customer-receipt-notification-email.png)
+![Customer Portal](docs/Screenshots/customer-receipt-notification-email.png)
 
 ### Booking Flow
-![Booking Flow](docs/screenshots/booking-flow.png)
+![Booking Flow](docs/Screenshots/booking-flow.png)
 
 ---
 
