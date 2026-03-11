@@ -1,4 +1,4 @@
-# AWS Serverless Marketplace
+# AWS Serverless Marketplace (Serverless Cloud Architecture Project)
 ### Event-Driven Order Processing System
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://d3r7plath9y10q.cloudfront.net/)
@@ -8,27 +8,79 @@
 
 > A production-ready, serverless marketplace platform connecting homeowners with service providers. Built with AWS Lambda, DynamoDB, API Gateway, and event-driven architecture.
 
+## 🚀 Recruiter Snapshot
+
+This project demonstrates real-world cloud engineering skills by designing and deploying a production-ready serverless application on AWS.
+
+Key capabilities demonstrated:
+
+• Serverless microservices architecture  
+• REST API development using API Gateway  
+• Event-driven workflows using DynamoDB Streams, SNS, and SQS  
+• Secure authentication using Cognito  
+• NoSQL data modeling with DynamoDB  
+• Monitoring and observability with CloudWatch  
+
+Business outcome:  
+A fully functional marketplace platform connecting homeowners with service providers, capable of scaling automatically with zero infrastructure management.
+
 🔗 **[Live Demo](https://d3r7plath9y10q.cloudfront.net/)** | 📄 **[Full Documentation](docs/)** | 💼 **[LinkedIn](https://linkedin.com/in/taofeek-adeyemi)**
 
 ---
 
 ## 📊 Project Overview
 
-This capstone project demonstrates enterprise-grade cloud architecture for a real-world marketplace application. The system handles the complete booking lifecycle—from service discovery to payment processing—using serverless technologies and event-driven design patterns.
+This capstone project demonstrates enterprise-grade cloud architecture for a real-world marketplace application. The system handles the complete booking lifecycle from service discovery to payment processing, using serverless technologies and event-driven design patterns.
 
-### Key Achievements
+### ☁️ Cloud Skills Demonstrated
 
-- ✅ **9 Lambda microservices** orchestrating marketplace operations
-- ✅ **100% uptime** with zero failed transactions
-- ✅ **73+ real bookings** processed during testing
-- ✅ **49 automated emails** delivered with zero bounces
-- ✅ **Cost-optimized** to run entirely on AWS Free Tier
+AWS Services:
+- Lambda (serverless compute)
+- API Gateway (REST API management)
+- DynamoDB (NoSQL database)
+- S3 (static hosting)
+- CloudFront (global CDN)
+- SNS (event notifications)
+- SQS (message queuing)
+- Cognito (authentication)
+- CloudWatch (monitoring)
+
+Architecture Patterns:
+- Serverless architecture
+- Event-driven architecture
+- Microservices
+- RESTful APIs
+- Auto-scaling cloud workloads
+  
+### Key Engineering Achievements
+
+- ✅ Designed and deployed **9 independent Lambda microservices**
+- ✅ Built **fully serverless backend architecture** with no server management
+- ✅ Processed **73+ real marketplace bookings during testing**
+- ✅ Delivered **49 automated transactional emails**
+- ✅ Achieved **100% transaction success rate**
+- ✅ Implemented **event-driven workflows using DynamoDB Streams**
+- ✅ Optimized architecture to run **entirely within AWS Free Tier**
 
 ---
 
 ## 🏗️ Architecture
 
 ![Architecture Diagram](docs/architecture-diagram.png)
+
+## 🎯 Why This Project Matters
+
+This project demonstrates how modern cloud-native applications are built using serverless and event-driven architectures.
+
+The architecture reflects patterns commonly used in production cloud environments including:
+
+- Microservices-based backend design
+- Event-driven workflows
+- Fully managed cloud services
+- Auto-scaling infrastructure
+- Secure API-driven communication
+
+These patterns are widely used in modern cloud engineering and DevOps environments.
 
 ### System Components
 
@@ -250,6 +302,8 @@ GET  /health                # Health check
 - ✅ API Gateway throttling & rate limiting
 - ✅ Data encryption at rest (SSE-S3)
 - ✅ HTTPS enforcement via CloudFront
+- ✅ IAM role-based permissions for Lambda services
+- ✅ API request validation and schema enforcement
 
 ---
 
@@ -267,6 +321,13 @@ GET  /health                # Health check
 - Lambda function failures
 - DynamoDB throttling events
 - SQS message backlogs
+
+**Operational capabilities include:**
+
+- Real-time error monitoring
+- Performance tracking
+- Automated alerting for system failures
+- Operational visibility for debugging distributed serverless services
 
 ---
 
@@ -332,6 +393,20 @@ This project demonstrates:
 - ✅ Cloud security best practices
 - ✅ Monitoring & observability
 - ✅ Cost optimization strategies
+- ✅ Distributed system design
+- ✅ Serverless application lifecycle management
+
+---
+
+## 🔮 Future Improvements
+
+Planned enhancements to further evolve this system:
+
+- Infrastructure automation using Terraform
+- CI/CD pipeline using GitHub Actions
+- Containerized services using AWS Fargate
+- Advanced observability dashboards
+- Multi-region deployment for high availability
 
 ---
 
