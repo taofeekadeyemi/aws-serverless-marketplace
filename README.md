@@ -424,7 +424,6 @@ Cloud Engineer & Technical Project Manager
 
 - 🔗 LinkedIn: [linkedin.com/in/taofeek-adeyemi](https://linkedin.com/in/taofeek-adeyemi)
 - 📧 Email: taofeekadeyemi22@gmail.com
-- 📱 Phone: +1 (416) 835-4513
 - 🌐 Live Demo: [d3r7plath9y10q.cloudfront.net](https://d3r7plath9y10q.cloudfront.net/)
 
 ---
